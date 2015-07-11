@@ -29,6 +29,7 @@
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/">
+<link rel="stylesheet" href="genericons/genericons.css"/>
 <link rel="stylesheet" href="http://scottcwilson.github.io//css/base.css">
 <link rel="stylesheet" href="http://scottcwilson.github.io//css/styles.css">
 <link rel="stylesheet" href="http://scottcwilson.github.io//css/custom.css">
@@ -63,6 +64,32 @@
             
             
             
+        <span align="right">
+  
+
+  
+  <a class="genericon genericon-github" href="https://github.com/scottcwilson" ></a>
+  
+
+  
+  | <a class="genericon genericon-twitter" href="https://twitter.com/scottcwilson"></a>
+  
+  
+  | <a class="genericon genericon-twitter" href="https://twitter.com/thatsoftwareguy"></a>
+  
+
+  
+  | <a class="genericon genericon-facebook" href="https://www.facebook.com/scottcwilson"></a>
+  
+
+  
+
+  
+  | <a class="genericon genericon-linkedin-alt" href="https://www.linkedin.com/in/scottcwilson"></a>
+  
+
+  
+        </span>
         </div>
     </div>
 
@@ -145,7 +172,7 @@
     </div>
     <div class="data">
         <h1 class="post-title"><a href="http://scottcwilson.github.io/post/ort/">My book group website</a></h1>
-        <div class="summary">This is my book group website. We have been reading together for more than ten years. Live Site: http://tampabaybookgroup.org</div>
+        <div class="summary">This is my book group website. We have been reading together for more than ten years. Live Site: http://tampabaybookgroup.org Tools Static HTML Images served via Amazon using the Affiliate link builder. Story I have maintained this site just by editing HTML for many years. I have often thought about taking a more sophisticated approach, but I have never taken the leap. For example, I did an implementation of this using Postgres and Rails that you can see on Heroku.</div>
     </div>
     <footer class="readon">
         <a href="http://scottcwilson.github.io/post/ort/">
@@ -234,6 +261,21 @@
     <div class="container">
         
         
+        <div id="profile">
+            <div class="eyecatch">
+                <img id="photo" src="/images/nopicture.png" alt="profile">
+            </div>
+            <div class="data">
+                
+                <h1 id="username" class="post-title"></h1>
+                
+                
+                
+                <pre id="description"></pre>
+                <ul id="urls" class="post-tags"></ul>
+            </div>
+        </div>
+        
     </div>
 </aside>
 
@@ -242,6 +284,7 @@
 <footer class="copy">
     <p>&copy; 2015  Scott C Wilson </p>
     <p>Powered by <a href="http://gohugo.io" target="_blank">Hugo</a>, Theme <a href="https://github.com/dim0627/hugo_theme_aglaus" target="_blank">Aglaus</a> designed by <a href="http://yet.unresolved.xyz" target="_blank">Daisuke Tsuji</a></p>
+    <p>Additional template ideas from <a href="https://github.com/TiTi/hurock">TiTi</a></p>
 </footer>
 
 <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
@@ -264,7 +307,7 @@ ga('send', 'pageview');
 
 <script>
 $(function() {
-    var url = "https://ja.gravatar.com/.json?callback=?";
+    var url = "https://ja.gravatar.com/750b75109b76470b82336ae826483eb1.json?callback=?";
     $.getJSON(url)
         .done(function(data) {
             var entry = data.entry[0];
