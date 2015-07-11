@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott C Wilson </title>
+    <link>http://scottcwilson.github.io/post/</link>
+    <language>en-us</language>
+    <author></author>
+    <rights>(C) 2015</rights>
+    <updated>2015-07-11 00:00:00 &#43;0000 UTC</updated>
+
+    
+      
+        <item>
+          <title>My business website</title>
+          <link>http://scottcwilson.github.io/post/tsg/</link>
+          <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/tsg/</guid>
+          <description>&lt;p&gt;This is my business website.  I&amp;rsquo;ve been doing Zen Cart
+modifications (and also working with a handful of other carts)
+since 2006.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>My book group website</title>
+          <link>http://scottcwilson.github.io/post/ort/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/ort/</guid>
+          <description>&lt;p&gt;This is my book group website.  We have been reading together for
+more than ten years.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>My coffee cups</title>
+          <link>http://scottcwilson.github.io/post/movrcc/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/movrcc/</guid>
+          <description>&lt;p&gt;This is my my collection of vintage restaurant coffee cups.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
