@@ -210,7 +210,7 @@ Almost exclusively read by my mother.&lt;/p&gt;
     
       
         <item>
-          <title>My site on Github</title>
+          <title>This site!</title>
           <link>http://scottcwilson.github.io/post/github/</link>
           <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
           <author></author>
@@ -231,8 +231,10 @@ Almost exclusively read by my mother.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.github.com/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Source for this website: &lt;a href=&#34;https://github.com/scottcwilson/hugosite&#34;&gt;https://github.com/scottcwilson/hugosite&lt;/a&gt;
-The Markdown description for that repo describes how I publish the blog.
+&lt;p&gt;Source for this website: &lt;a href=&#34;https://github.com/scottcwilson/hugosite&#34;&gt;https://github.com/scottcwilson/hugosite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/scottcwilson/hugosite/blob/master/README.md&#34;&gt;hugosite repo readme&lt;/a&gt;
+describes how I publish the blog.
 I think my technique is much easier than the one described in
 &lt;a href=&#34;http://gohugo.io/tutorials/github-pages-blog/&#34;&gt;the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
 </description>
