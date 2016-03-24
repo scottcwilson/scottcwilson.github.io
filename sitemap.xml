@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://scottcwilson.github.io/post/store/</loc>
+    <loc>http://scottcwilson.github.io/post/demos/</loc>
     <lastmod>2015-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://scottcwilson.github.io/post/demos/</loc>
+    <loc>http://scottcwilson.github.io/post/store/</loc>
     <lastmod>2015-07-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -32,6 +32,10 @@
   
   <url>
     <loc>http://scottcwilson.github.io/post/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://scottcwilson.github.io/post/youtube/</loc>
   </url>
   
   <url>

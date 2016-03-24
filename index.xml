@@ -58,6 +58,41 @@ and rebuilding the pages out of these partials.&lt;/p&gt;
     
       
         <item>
+          <title>My Demo Sites</title>
+          <link>http://scottcwilson.github.io/post/demos/</link>
+          <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/demos/</guid>
+          <description>
+
+&lt;p&gt;I have so many
+&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;
+mods that I need &lt;s&gt;three&lt;/s&gt; four demo stores
+to show them all!&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy2.com/&#34;&gt;http://www.thatsoftwareguy2.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tools:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template&#34;&gt;Ericka Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;story:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Story&lt;/h2&gt;
+
+&lt;p&gt;Some of my modifications overlap each other, so I really had to
+create multiple sites to show off all of them.  I wound up
+using one of
+&lt;a href=&#34;https://www.picaflor-azul.com/&#34;&gt;Picaflor Azul&amp;rsquo;s&lt;/a&gt;
+many templates - the one I settled on was
+&lt;a href=&#34;https://www.zen-cart.com/downloads.php?do=file&amp;amp;id=1744&#34;&gt;Responsive Sheffield Blue&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
           <title>My store</title>
           <link>http://scottcwilson.github.io/post/store/</link>
           <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
@@ -88,41 +123,6 @@ my own.&lt;/p&gt;
 a client named
 &lt;a href=&#34;http://calliopesclosets.com.au/&#34;&gt;Adrian Frankel&lt;/a&gt; encouraged me
 to set up an online store, and finally I did.&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
-          <title>My Demo Sites</title>
-          <link>http://scottcwilson.github.io/post/demos/</link>
-          <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
-          <author></author>
-          <guid>http://scottcwilson.github.io/post/demos/</guid>
-          <description>
-
-&lt;p&gt;I have so many
-&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;
-mods that I need &lt;s&gt;three&lt;/s&gt; four demo stores
-to show them all!&lt;/p&gt;
-
-&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy2.com/&#34;&gt;http://www.thatsoftwareguy2.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;tools:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template&#34;&gt;Ericka Template&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;story:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Story&lt;/h2&gt;
-
-&lt;p&gt;Some of my modifications overlap each other, so I really had to
-create multiple sites to show off all of them.  I wound up
-using one of
-&lt;a href=&#34;https://www.picaflor-azul.com/&#34;&gt;Picaflor Azul&amp;rsquo;s&lt;/a&gt;
-many templates - the one I settled on was
-&lt;a href=&#34;https://www.zen-cart.com/downloads.php?do=file&amp;amp;id=1744&#34;&gt;Responsive Sheffield Blue&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
       
@@ -204,6 +204,20 @@ of this using Postgres and Rails that you can see &lt;a href=&#34;http://tampaba
 &lt;p&gt;Yet another boring blog.  I mostly talk about Zen Cart stuff.
 Lots of the content is just copied from my main site.
 Almost exclusively read by my mother.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>My Videos</title>
+          <link>http://scottcwilson.github.io/post/youtube/</link>
+          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/youtube/</guid>
+          <description>&lt;p&gt;This is my YouTube channel.   Lots of videos about Zen Cart.&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&#34;&gt;http://https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
       
