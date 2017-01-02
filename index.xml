@@ -108,7 +108,6 @@ many templates - the one I settled on was
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ultimatezencart.com/&#34;&gt;Template B40515&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;story:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Story&lt;/h2&gt;
@@ -144,16 +143,23 @@ more than ten years.&lt;/p&gt;
 &lt;h2 id=&#34;tools:8fa857c2d4a15da89e9895522069cd10&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Static HTML&lt;/li&gt;
-&lt;li&gt;Images served via Amazon using the Affiliate link builder.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/JuanjoSalvador/hyde&#34;&gt;Hyde&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tokzk/jekyll-amazon&#34;&gt;jekyll-amazon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;story:8fa857c2d4a15da89e9895522069cd10&#34;&gt;Story&lt;/h2&gt;
 
-&lt;p&gt;I have maintained this site just by editing HTML for many years.
-I have often thought about taking a more sophisticated approach,
-but I have never taken the leap.  For example, I did an implementation
-of this using Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;. Who knows - someday maybe.&lt;/p&gt;
+&lt;p&gt;I maintained this site just by editing HTML for many years. I wanted
+to do something more sophisticated, but never seemed to get around to it.
+One day, though, I noticed that some of my old Amazon-generated links
+were no longer working.  Rather than going through and testing them all,
+I decided to completely rebuild the site using Amazon&amp;rsquo;s API, so I could
+be guaranteed of getting good URLs.&lt;/p&gt;
+
+&lt;p&gt;A long time ago, I did a proof of concept using
+Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;, but this seemed like overkill for such a small site.  So I just had
+to choose between static site generators &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and Jekyll.  I wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
 </description>
         </item>
       
