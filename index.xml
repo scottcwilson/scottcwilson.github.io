@@ -5,15 +5,15 @@
     <link>http://scottcwilson.github.io/</link>
     <language>en-us</language>
     <author></author>
-    <rights>(C) 2015</rights>
-    <updated>2015-07-11 00:00:00 &#43;0000 UTC</updated>
+    <rights>(C) 2017</rights>
+    <updated>2017-01-02 00:00:00 &#43;0000 UTC</updated>
 
     
       
         <item>
           <title>My business website</title>
           <link>http://scottcwilson.github.io/post/tsg/</link>
-          <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/tsg/</guid>
           <description>
@@ -48,7 +48,8 @@ Go figure.&lt;/p&gt;
 
 &lt;p&gt;I loved the Ericka template, but like many templates, it was built
 for small websites.  My site has almost 200 pages
-- see &lt;a href=&#34;http://www.thatsoftwareguy.com/sitemap.html&#34;&gt;sitemap&lt;/a&gt; - so I really wanted to use Server Side Includes
+- see &lt;a href=&#34;http://www.thatsoftwareguy.com/sitemap.html&#34;&gt;sitemap&lt;/a&gt; -
+so I really wanted to use Server Side Includes
 (SSI) and consolidate the common code. I wound up slicing the
 template up into chunks (38 partial files at the time of writing),
 and rebuilding the pages out of these partials.&lt;/p&gt;
@@ -58,44 +59,9 @@ and rebuilding the pages out of these partials.&lt;/p&gt;
     
       
         <item>
-          <title>My Demo Sites</title>
-          <link>http://scottcwilson.github.io/post/demos/</link>
-          <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
-          <author></author>
-          <guid>http://scottcwilson.github.io/post/demos/</guid>
-          <description>
-
-&lt;p&gt;I have so many
-&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;
-mods that I need &lt;s&gt;three&lt;/s&gt; four demo stores
-to show them all!&lt;/p&gt;
-
-&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy2.com/&#34;&gt;http://www.thatsoftwareguy2.com/&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;tools:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template&#34;&gt;Ericka Template&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;story:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Story&lt;/h2&gt;
-
-&lt;p&gt;Some of my modifications overlap each other, so I really had to
-create multiple sites to show off all of them.  I wound up
-using one of
-&lt;a href=&#34;https://www.picaflor-azul.com/&#34;&gt;Picaflor Azul&amp;rsquo;s&lt;/a&gt;
-many templates - the one I settled on was
-&lt;a href=&#34;https://www.zen-cart.com/downloads.php?do=file&amp;amp;id=1744&#34;&gt;Responsive Sheffield Blue&lt;/a&gt;.&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
           <title>My store</title>
           <link>http://scottcwilson.github.io/post/store/</link>
-          <pubDate>Sat, 11 Jul 2015 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/store/</guid>
           <description>
@@ -128,9 +94,44 @@ to set up an online store, and finally I did.&lt;/p&gt;
     
       
         <item>
+          <title>My Demo Sites</title>
+          <link>http://scottcwilson.github.io/post/demos/</link>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/demos/</guid>
+          <description>
+
+&lt;p&gt;I have so many
+&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;
+mods that I need &lt;s&gt;three&lt;/s&gt; four demo stores
+to show them all!&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy2.com/&#34;&gt;http://www.thatsoftwareguy2.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tools:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template&#34;&gt;Ericka Template&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;story:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Story&lt;/h2&gt;
+
+&lt;p&gt;Some of my modifications overlap each other, so I really had to
+create multiple sites to show off all of them.  I wound up
+using one of
+&lt;a href=&#34;https://www.picaflor-azul.com/&#34;&gt;Picaflor Azul&amp;rsquo;s&lt;/a&gt;
+many templates - the one I settled on was
+&lt;a href=&#34;https://www.zen-cart.com/downloads.php?do=file&amp;amp;id=1744&#34;&gt;Responsive Sheffield Blue&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
           <title>My book group website</title>
           <link>http://scottcwilson.github.io/post/ort/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/ort/</guid>
           <description>
@@ -158,8 +159,10 @@ I decided to completely rebuild the site using Amazon&amp;rsquo;s API, so I coul
 be guaranteed of getting good URLs.&lt;/p&gt;
 
 &lt;p&gt;A long time ago, I did a proof of concept using
-Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;, but this seemed like overkill for such a small site.  So I just had
-to choose between static site generators &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and Jekyll.  I wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
+Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;, but this seemed like overkill for such a small site.&lt;br /&gt;
+So I just had to choose between a couple of static site generators that
+I was familiar with - &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and Jekyll.&lt;br /&gt;
+I had always wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
 </description>
         </item>
       
@@ -168,7 +171,7 @@ to choose between static site generators &lt;a href=&#34;https://gohugo.io/&#34;
         <item>
           <title>My coffee cups</title>
           <link>http://scottcwilson.github.io/post/movrcc/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/movrcc/</guid>
           <description>
@@ -190,7 +193,7 @@ to choose between static site generators &lt;a href=&#34;https://gohugo.io/&#34;
         <item>
           <title>My blog</title>
           <link>http://scottcwilson.github.io/post/blog/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/blog/</guid>
           <description>
@@ -218,7 +221,7 @@ Almost exclusively read by my mother.&lt;/p&gt;
         <item>
           <title>My Videos</title>
           <link>http://scottcwilson.github.io/post/youtube/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/youtube/</guid>
           <description>&lt;p&gt;This is my YouTube channel.   Lots of videos about Zen Cart.&lt;/p&gt;
@@ -232,7 +235,7 @@ Almost exclusively read by my mother.&lt;/p&gt;
         <item>
           <title>This site!</title>
           <link>http://scottcwilson.github.io/post/github/</link>
-          <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/github/</guid>
           <description>
