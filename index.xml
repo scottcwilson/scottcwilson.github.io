@@ -59,41 +59,6 @@ and rebuilding the pages out of these partials.&lt;/p&gt;
     
       
         <item>
-          <title>My store</title>
-          <link>http://scottcwilson.github.io/post/store/</link>
-          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
-          <author></author>
-          <guid>http://scottcwilson.github.io/post/store/</guid>
-          <description>
-
-&lt;p&gt;This is the store where I sell my mods (mostly Zen Cart).&lt;/p&gt;
-
-&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy.com/store&#34;&gt;http://www.thatsoftwareguy.com/store&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;tools:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;story:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Story&lt;/h2&gt;
-
-&lt;p&gt;For years, I would distribute software manually.  I&amp;rsquo;d get a payment
-and then email the software, either from my desktop or from my
-Blackberry.  Why didn&amp;rsquo;t I use Zen Cart?  I know, it seems crazy.
-Honestly, I was just too busy building sites for other people to build
-my own.&lt;/p&gt;
-
-&lt;p&gt;My friend &lt;a href=&#34;http://www.doubledogsoftware.com&#34;&gt;David Croy&lt;/a&gt;, and later,
-a client named
-&lt;a href=&#34;http://calliopesclosets.com.au/&#34;&gt;Adrian Frankel&lt;/a&gt; encouraged me
-to set up an online store, and finally I did.&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
           <title>My Demo Sites</title>
           <link>http://scottcwilson.github.io/post/demos/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
@@ -123,6 +88,41 @@ using one of
 &lt;a href=&#34;https://www.picaflor-azul.com/&#34;&gt;Picaflor Azul&amp;rsquo;s&lt;/a&gt;
 many templates - the one I settled on was
 &lt;a href=&#34;https://www.zen-cart.com/downloads.php?do=file&amp;amp;id=1744&#34;&gt;Responsive Sheffield Blue&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>My store</title>
+          <link>http://scottcwilson.github.io/post/store/</link>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/store/</guid>
+          <description>
+
+&lt;p&gt;This is the store where I sell my mods (mostly Zen Cart).&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy.com/store&#34;&gt;http://www.thatsoftwareguy.com/store&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tools:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;story:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Story&lt;/h2&gt;
+
+&lt;p&gt;For years, I would distribute software manually.  I&amp;rsquo;d get a payment
+and then email the software, either from my desktop or from my
+Blackberry.  Why didn&amp;rsquo;t I use Zen Cart?  I know, it seems crazy.
+Honestly, I was just too busy building sites for other people to build
+my own.&lt;/p&gt;
+
+&lt;p&gt;My friend &lt;a href=&#34;http://www.doubledogsoftware.com&#34;&gt;David Croy&lt;/a&gt;, and later,
+a client named
+&lt;a href=&#34;http://calliopesclosets.com.au/&#34;&gt;Adrian Frankel&lt;/a&gt; encouraged me
+to set up an online store, and finally I did.&lt;/p&gt;
 </description>
         </item>
       
@@ -226,7 +226,7 @@ Almost exclusively read by my mother.&lt;/p&gt;
           <guid>http://scottcwilson.github.io/post/youtube/</guid>
           <description>&lt;p&gt;This is my YouTube channel.   Lots of videos about Zen Cart.&lt;/p&gt;
 
-&lt;p&gt;Live Site: &lt;a href=&#34;http://https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&#34;&gt;http://https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Live Site: &lt;a href=&#34;https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&#34;&gt;https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
       
