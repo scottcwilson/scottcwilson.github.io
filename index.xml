@@ -69,7 +69,8 @@ and rebuilding the pages out of these partials.&lt;/p&gt;
 &lt;p&gt;I have so many
 &lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;
 mods that I need &lt;s&gt;three&lt;/s&gt; four demo stores
-to show them all!&lt;/p&gt;
+to show them all!  I also host an osCommerce demo site because some
+of my mods have been posted to that platform.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy2.com/&#34;&gt;http://www.thatsoftwareguy2.com/&lt;/a&gt;&lt;/p&gt;
 
@@ -227,39 +228,6 @@ Almost exclusively read by my mother.&lt;/p&gt;
           <description>&lt;p&gt;This is my YouTube channel.   Lots of videos about Zen Cart.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&#34;&gt;https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
-          <title>This site!</title>
-          <link>http://scottcwilson.github.io/post/github/</link>
-          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
-          <author></author>
-          <guid>http://scottcwilson.github.io/post/github/</guid>
-          <description>
-
-&lt;p&gt;This is my Hugo-based site on Github.&lt;/p&gt;
-
-&lt;p&gt;Live Site: &lt;a href=&#34;http://scottcwilson.github.io&#34;&gt;http://scottcwilson.github.io&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/dim0627/hugo_theme_aglaus&#34;&gt;Aglaus Theme&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.shrinktheweb.com/&#34;&gt;ShrinkTheWeb&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.markdownpro.com/&#34;&gt;Markdown Pro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.github.com/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Source for this website: &lt;a href=&#34;https://github.com/scottcwilson/hugosite&#34;&gt;https://github.com/scottcwilson/hugosite&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://github.com/scottcwilson/hugosite/blob/master/README.md&#34;&gt;hugosite repo readme&lt;/a&gt;
-describes how I publish the blog.
-I think my technique is much easier than the one described in
-&lt;a href=&#34;http://gohugo.io/tutorials/github-pages-blog/&#34;&gt;the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
       
