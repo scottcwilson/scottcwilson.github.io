@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott C Wilson </title>
-    <link>http://scottcwilson.github.io/</link>
+    <link>http://scottcwilson.github.io/index.xml</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2017</rights>
@@ -25,14 +25,14 @@ since 2006.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy.com&#34;&gt;http://www.thatsoftwareguy.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:5db7ceff31b3babc43cbdaf711acaf10&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template&#34;&gt;Ericka Template&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;story:5db7ceff31b3babc43cbdaf711acaf10&#34;&gt;Story&lt;/h2&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
 
 &lt;p&gt;For years I had a static HTML site designed for desktops.
 Here&amp;rsquo;s what the old site looked like:&lt;/p&gt;
@@ -73,14 +73,14 @@ to show them all!&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy2.com/&#34;&gt;http://www.thatsoftwareguy2.com/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.behance.net/gallery/5842843/Ericka-Responsive-Bootstrap-Template&#34;&gt;Ericka Template&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;story:d6229ef2eb0a12dc37661b9f2f32b21d&#34;&gt;Story&lt;/h2&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
 
 &lt;p&gt;Some of my modifications overlap each other, so I really had to
 create multiple sites to show off all of them.  I wound up
@@ -105,13 +105,13 @@ many templates - the one I settled on was
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy.com/store&#34;&gt;http://www.thatsoftwareguy.com/store&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;story:b242c73cadc8fcd95cf3df2da3d6a0f2&#34;&gt;Story&lt;/h2&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
 
 &lt;p&gt;For years, I would distribute software manually.  I&amp;rsquo;d get a payment
 and then email the software, either from my desktop or from my
@@ -141,7 +141,7 @@ more than ten years.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://tampabaybookgroup.org&#34;&gt;http://tampabaybookgroup.org&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:8fa857c2d4a15da89e9895522069cd10&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
@@ -149,7 +149,7 @@ more than ten years.&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/tokzk/jekyll-amazon&#34;&gt;jekyll-amazon&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;story:8fa857c2d4a15da89e9895522069cd10&#34;&gt;Story&lt;/h2&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
 
 &lt;p&gt;I maintained this site just by editing HTML for many years. I wanted
 to do something more sophisticated, but never seemed to get around to it.
@@ -180,10 +180,10 @@ I had always wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://vintagecups.com&#34;&gt;http://vintagecups.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:ab3d9f9960a3dd1bb3243b0b5511e161&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&#34;&gt;LAMP stack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[LAMP stack] (&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&#34;&gt;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -202,13 +202,13 @@ I had always wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://thatsoftwareguy.com/blog&#34;&gt;http://thatsoftwareguy.com/blog&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:e95c7dc8eefee7d0e25121cd7f0007ae&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://wordpress.com&#34;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;story:e95c7dc8eefee7d0e25121cd7f0007ae&#34;&gt;Story&lt;/h2&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
 
 &lt;p&gt;Yet another boring blog.  I mostly talk about Zen Cart stuff.
 Lots of the content is just copied from my main site.
@@ -244,7 +244,40 @@ Almost exclusively read by my mother.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;http://scottcwilson.github.io&#34;&gt;http://scottcwilson.github.io&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tools:93ed8abeb42c248f3c551d1cb44159d4&#34;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dim0627/hugo_theme_aglaus&#34;&gt;Aglaus Theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.shrinktheweb.com/&#34;&gt;ShrinkTheWeb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.markdownpro.com/&#34;&gt;Markdown Pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.github.com/&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Source for this website: &lt;a href=&#34;https://github.com/scottcwilson/hugosite&#34;&gt;https://github.com/scottcwilson/hugosite&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://github.com/scottcwilson/hugosite/blob/master/README.md&#34;&gt;hugosite repo readme&lt;/a&gt;
+describes how I publish the blog.
+I think my technique is much easier than the one described in
+&lt;a href=&#34;http://gohugo.io/tutorials/github-pages-blog/&#34;&gt;the Hugo documentation&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>This site!</title>
+          <link>http://scottcwilson.github.io/post/scottcwilson/</link>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/scottcwilson/</guid>
+          <description>
+
+&lt;p&gt;This is my Hugo-based site on Github.&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://scottcwilson.github.io&#34;&gt;http://scottcwilson.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
