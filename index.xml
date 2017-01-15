@@ -59,6 +59,41 @@ and rebuilding the pages out of these partials.&lt;/p&gt;
     
       
         <item>
+          <title>My store</title>
+          <link>http://scottcwilson.github.io/post/store/</link>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/store/</guid>
+          <description>
+
+&lt;p&gt;This is the store where I sell my mods (mostly Zen Cart).&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy.com/store&#34;&gt;http://www.thatsoftwareguy.com/store&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
+
+&lt;p&gt;For years, I would distribute software manually.  I&amp;rsquo;d get a payment
+and then email the software, either from my desktop or from my
+Blackberry.  Why didn&amp;rsquo;t I use Zen Cart?  I know, it seems crazy.
+Honestly, I was just too busy building sites for other people to build
+my own.&lt;/p&gt;
+
+&lt;p&gt;My friend &lt;a href=&#34;http://www.doubledogsoftware.com&#34;&gt;David Croy&lt;/a&gt;, and later,
+a client named
+&lt;a href=&#34;http://calliopesclosets.com.au/&#34;&gt;Adrian Frankel&lt;/a&gt; encouraged me
+to set up an online store, and finally I did.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
           <title>My Demo Sites</title>
           <link>http://scottcwilson.github.io/post/demos/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
@@ -95,35 +130,34 @@ many templates - the one I settled on was
     
       
         <item>
-          <title>My store</title>
-          <link>http://scottcwilson.github.io/post/store/</link>
-          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <title>My Shopify Demo</title>
+          <link>http://scottcwilson.github.io/post/shopify/</link>
+          <pubDate>Sun, 15 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/store/</guid>
+          <guid>http://scottcwilson.github.io/post/shopify/</guid>
           <description>
 
-&lt;p&gt;This is the store where I sell my mods (mostly Zen Cart).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m just getting started with &lt;a href=&#34;https://app.shopify.com/services/signup/?ref=thatsoftwareguy&#34;&gt;Shopify&lt;/a&gt;.  I built a little demo shop so
+people can see what using a Shopify store is like.&lt;/p&gt;
 
-&lt;p&gt;Live Site: &lt;a href=&#34;http://www.thatsoftwareguy.com/store&#34;&gt;http://www.thatsoftwareguy.com/store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Live Site: &lt;a href=&#34;http://thatsoftwareguy-flowers.myshopify.com/&#34;&gt;http://thatsoftwareguy-flowers.myshopify.com/&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.zencart.com&#34;&gt;Zen Cart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.shopify.com/services/signup/?ref=thatsoftwareguy&#34;&gt;Shopify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://shopify.github.io/liquid/&#34;&gt;Liquid&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
 
-&lt;p&gt;For years, I would distribute software manually.  I&amp;rsquo;d get a payment
-and then email the software, either from my desktop or from my
-Blackberry.  Why didn&amp;rsquo;t I use Zen Cart?  I know, it seems crazy.
-Honestly, I was just too busy building sites for other people to build
-my own.&lt;/p&gt;
-
-&lt;p&gt;My friend &lt;a href=&#34;http://www.doubledogsoftware.com&#34;&gt;David Croy&lt;/a&gt;, and later,
-a client named
-&lt;a href=&#34;http://calliopesclosets.com.au/&#34;&gt;Adrian Frankel&lt;/a&gt; encouraged me
-to set up an online store, and finally I did.&lt;/p&gt;
+&lt;p&gt;Shopify does not offer as much customizability as Zen Cart, but
+if you&amp;rsquo;re not a software developer (or don&amp;rsquo;t have access to low-cost help), TCO
+will likely wind up up being lower.   It depends on whether this
+trade off makes sense for you.  For shops that need a lot of business logic
+to drive the customer workflow, or shops that have a complex supply chain,
+Shopify might not work, but if your store
+is simple and doesn&amp;rsquo;t have a lot of rules, it&amp;rsquo;s worth trying out.&lt;/p&gt;
 </description>
         </item>
       
@@ -170,28 +204,6 @@ I had always wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
     
       
         <item>
-          <title>My coffee cups</title>
-          <link>http://scottcwilson.github.io/post/movrcc/</link>
-          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
-          <author></author>
-          <guid>http://scottcwilson.github.io/post/movrcc/</guid>
-          <description>
-
-&lt;p&gt;This is my collection of vintage restaurant coffee cups.&lt;/p&gt;
-
-&lt;p&gt;Live Site: &lt;a href=&#34;http://vintagecups.com&#34;&gt;http://vintagecups.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;[LAMP stack] (&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&#34;&gt;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-      
-    
-      
-        <item>
           <title>My blog</title>
           <link>http://scottcwilson.github.io/post/blog/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
@@ -228,6 +240,28 @@ Almost exclusively read by my mother.&lt;/p&gt;
           <description>&lt;p&gt;This is my YouTube channel.   Lots of videos about Zen Cart.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&#34;&gt;https://www.youtube.com/channel/UCCUsYq9lvnWRD2C9yurCNCQ&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>My coffee cups</title>
+          <link>http://scottcwilson.github.io/post/movrcc/</link>
+          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <author></author>
+          <guid>http://scottcwilson.github.io/post/movrcc/</guid>
+          <description>
+
+&lt;p&gt;This is my collection of vintage restaurant coffee cups.&lt;/p&gt;
+
+&lt;p&gt;Live Site: &lt;a href=&#34;http://vintagecups.com&#34;&gt;http://vintagecups.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;[LAMP stack] (&lt;a href=&#34;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&#34;&gt;https://en.wikipedia.org/wiki/LAMP_(software_bundle)&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
       

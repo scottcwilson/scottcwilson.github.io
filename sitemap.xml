@@ -7,22 +7,22 @@
   </url>
   
   <url>
-    <loc>http://scottcwilson.github.io/post/demos/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://scottcwilson.github.io/post/store/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://scottcwilson.github.io/post/ort/</loc>
+    <loc>http://scottcwilson.github.io/post/demos/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://scottcwilson.github.io/post/movrcc/</loc>
+    <loc>http://scottcwilson.github.io/post/shopify/</loc>
+    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottcwilson.github.io/post/ort/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,6 +33,11 @@
   
   <url>
     <loc>http://scottcwilson.github.io/post/youtube/</loc>
+    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://scottcwilson.github.io/post/movrcc/</loc>
     <lastmod>2017-01-02T00:00:00+00:00</lastmod>
   </url>
   
