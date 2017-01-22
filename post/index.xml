@@ -194,10 +194,10 @@ I decided to completely rebuild the site using Amazon&amp;rsquo;s API, so I coul
 be guaranteed of getting good URLs.&lt;/p&gt;
 
 &lt;p&gt;A long time ago, I did a proof of concept using
-Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;, but this seemed like overkill for such a small site.&lt;br /&gt;
-So I just had to choose between a couple of static site generators that
-I was familiar with - &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and Jekyll.&lt;br /&gt;
-I had always wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
+Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;, but this seemed like overkill for such a small site.  So I
+just had to choose between a couple of static site generators that I was
+familiar with - &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and Jekyll.  I had always
+wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
 </description>
         </item>
       
