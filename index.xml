@@ -166,7 +166,7 @@ is simple and doesn&amp;rsquo;t have a lot of rules, it&amp;rsquo;s worth trying
         <item>
           <title>My book group website</title>
           <link>http://scottcwilson.github.io/post/ort/</link>
-          <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
+          <pubDate>Tue, 02 Jan 2018 00:00:00 UTC</pubDate>
           <author></author>
           <guid>http://scottcwilson.github.io/post/ort/</guid>
           <description>
@@ -197,7 +197,8 @@ be guaranteed of getting good URLs.&lt;/p&gt;
 Postgres and Rails that you can see &lt;a href=&#34;http://tampabaybookgroup.herokuapp.com/&#34;&gt;on Heroku&lt;/a&gt;, but this seemed like overkill for such a small site.  So I
 just had to choose between a couple of static site generators that I was
 familiar with - &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and Jekyll.  I had always
-wanted to learn more Ruby, so I chose Jekyll.&lt;/p&gt;
+wanted to learn more Ruby, and was already a &lt;a href=&#34;https://github.com/tokzk/jekyll-amazon&#34;&gt;gem to query Amazon&lt;/a&gt;,
+so I chose Jeykll.&lt;/p&gt;
 </description>
         </item>
       
