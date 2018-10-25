@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scott C Wilson </title>
-    <link>http://scottcwilson.github.io/index.xml</link>
+    <link>https://scottcwilson.github.io/index.xml</link>
     <language>en-us</language>
     <author></author>
     <rights>(C) 2018</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>My business website</title>
-          <link>http://scottcwilson.github.io/post/tsg/</link>
+          <link>https://scottcwilson.github.io/post/tsg/</link>
           <pubDate>Tue, 02 Jan 2018 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/tsg/</guid>
+          <guid>https://scottcwilson.github.io/post/tsg/</guid>
           <description>
 
 &lt;p&gt;This is my business website.  I&amp;rsquo;ve been doing
@@ -60,10 +60,10 @@ and rebuilding the pages out of these partials.&lt;/p&gt;
       
         <item>
           <title>My store</title>
-          <link>http://scottcwilson.github.io/post/store/</link>
+          <link>https://scottcwilson.github.io/post/store/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/store/</guid>
+          <guid>https://scottcwilson.github.io/post/store/</guid>
           <description>
 
 &lt;p&gt;This is the store where I sell my mods (mostly Zen Cart).&lt;/p&gt;
@@ -95,10 +95,10 @@ to set up an online store, and finally I did.&lt;/p&gt;
       
         <item>
           <title>My Demo Sites</title>
-          <link>http://scottcwilson.github.io/post/demos/</link>
+          <link>https://scottcwilson.github.io/post/demos/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/demos/</guid>
+          <guid>https://scottcwilson.github.io/post/demos/</guid>
           <description>
 
 &lt;p&gt;I have so many
@@ -131,10 +131,10 @@ many templates - the one I settled on was
       
         <item>
           <title>My Shopify Demo</title>
-          <link>http://scottcwilson.github.io/post/shopify/</link>
+          <link>https://scottcwilson.github.io/post/shopify/</link>
           <pubDate>Sun, 15 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/shopify/</guid>
+          <guid>https://scottcwilson.github.io/post/shopify/</guid>
           <description>
 
 &lt;p&gt;I&amp;rsquo;m just getting started with &lt;a href=&#34;https://app.shopify.com/services/signup/?ref=thatsoftwareguy&#34;&gt;Shopify&lt;/a&gt;.  I built a little demo shop so
@@ -165,10 +165,10 @@ is simple and doesn&amp;rsquo;t have a lot of rules, it&amp;rsquo;s worth trying
       
         <item>
           <title>My book group website</title>
-          <link>http://scottcwilson.github.io/post/ort/</link>
+          <link>https://scottcwilson.github.io/post/ort/</link>
           <pubDate>Tue, 02 Jan 2018 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/ort/</guid>
+          <guid>https://scottcwilson.github.io/post/ort/</guid>
           <description>
 
 &lt;p&gt;This is my book group website.  We have been reading together for
@@ -206,10 +206,10 @@ so I chose Jeykll.&lt;/p&gt;
       
         <item>
           <title>My blog</title>
-          <link>http://scottcwilson.github.io/post/blog/</link>
+          <link>https://scottcwilson.github.io/post/blog/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/blog/</guid>
+          <guid>https://scottcwilson.github.io/post/blog/</guid>
           <description>
 
 &lt;p&gt;This is my blog.&lt;/p&gt;
@@ -234,10 +234,10 @@ Almost exclusively read by my mother.&lt;/p&gt;
       
         <item>
           <title>My Videos</title>
-          <link>http://scottcwilson.github.io/post/youtube/</link>
+          <link>https://scottcwilson.github.io/post/youtube/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/youtube/</guid>
+          <guid>https://scottcwilson.github.io/post/youtube/</guid>
           <description>&lt;p&gt;This is my YouTube channel.   Lots of videos about Zen Cart.&lt;/p&gt;
 
 &lt;p&gt;Live Site: &lt;a href=&#34;https://www.youtube.com/user/thatsoftwareguy&#34;&gt;https://www.youtube.com/user/thatsoftwareguy&lt;/a&gt;&lt;/p&gt;
@@ -248,10 +248,10 @@ Almost exclusively read by my mother.&lt;/p&gt;
       
         <item>
           <title>My coffee cups</title>
-          <link>http://scottcwilson.github.io/post/movrcc/</link>
+          <link>https://scottcwilson.github.io/post/movrcc/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/movrcc/</guid>
+          <guid>https://scottcwilson.github.io/post/movrcc/</guid>
           <description>
 
 &lt;p&gt;This is my collection of vintage restaurant coffee cups.&lt;/p&gt;
@@ -270,10 +270,10 @@ Almost exclusively read by my mother.&lt;/p&gt;
       
         <item>
           <title>My Portfolio</title>
-          <link>http://scottcwilson.github.io/post/scottcwilson/</link>
+          <link>https://scottcwilson.github.io/post/scottcwilson/</link>
           <pubDate>Mon, 02 Jan 2017 00:00:00 UTC</pubDate>
           <author></author>
-          <guid>http://scottcwilson.github.io/post/scottcwilson/</guid>
+          <guid>https://scottcwilson.github.io/post/scottcwilson/</guid>
           <description>
 
 &lt;p&gt;This is my Hugo-based site on Github.&lt;/p&gt;
