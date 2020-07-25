@@ -1,61 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://scottcwilson.github.io/post/tsg/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <loc>https://scottcwilson.github.io/posts/tsg/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scottcwilson.github.io/post/store/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <loc>https://scottcwilson.github.io/posts/store/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scottcwilson.github.io/post/demos/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
+    <loc>https://scottcwilson.github.io/posts/ort/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scottcwilson.github.io/post/shopify/</loc>
-    <lastmod>2017-01-15T00:00:00+00:00</lastmod>
+    <loc>https://scottcwilson.github.io/posts/blog/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://scottcwilson.github.io/post/ort/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scottcwilson.github.io/post/blog/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scottcwilson.github.io/post/youtube/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scottcwilson.github.io/post/movrcc/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scottcwilson.github.io/post/scottcwilson/</loc>
-    <lastmod>2017-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://scottcwilson.github.io/post/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://scottcwilson.github.io/posts/</loc>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://scottcwilson.github.io/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://scottcwilson.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://scottcwilson.github.io/tags/</loc>
   </url>
   
 </urlset>
