@@ -34,6 +34,15 @@ since 2006.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>My blog</title>
+      <link>https://scottcwilson.github.io/posts/blog/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://scottcwilson.github.io/posts/blog/</guid>
+      <description>&lt;p&gt;This is my blog. It&amp;rsquo;s mostly about my Zen Cart work but sometimes I cover a few other topics so it&amp;rsquo;s less of a snooze-fest.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>My book group website</title>
       <link>https://scottcwilson.github.io/posts/ort/</link>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
@@ -41,15 +50,6 @@ since 2006.&lt;/p&gt;</description>
       <guid>https://scottcwilson.github.io/posts/ort/</guid>
       <description>&lt;p&gt;This is my book group website.  We have been reading together for
 more than ten years.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>My blog</title>
-      <link>https://scottcwilson.github.io/posts/blog/</link>
-      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://scottcwilson.github.io/posts/blog/</guid>
-      <description>&lt;p&gt;This is my blog. It&amp;rsquo;s mostly about my Zen Cart work but sometimes I cover a few other topics so it&amp;rsquo;s less of a snooze-fest.&lt;/p&gt;</description>
     </item>
     
   </channel>
