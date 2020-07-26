@@ -18,7 +18,7 @@
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scottcwilson.github.io/posts/tsg/</guid>
-      <description>&lt;p&gt;This is my business website.  I&amp;rsquo;ve been doing
+      <description>&lt;p&gt;This is &lt;a href=&#34;https://www.thatsoftwareguy.com&#34;&gt;my business website&lt;/a&gt;.  I&amp;rsquo;ve been doing
 &lt;a href=&#34;https://www.zen-cart.com&#34;&gt;Zen Cart&lt;/a&gt;
 modifications (and also working with a handful of other carts)
 since 2006.&lt;/p&gt;</description>
@@ -30,7 +30,7 @@ since 2006.&lt;/p&gt;</description>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scottcwilson.github.io/posts/store/</guid>
-      <description>&lt;p&gt;This is the store where I sell my mods (mostly Zen Cart).  Naturally the store runs Zen Cart!&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is &lt;a href=&#34;https://www.thatsoftwareguy.com/store&#34;&gt;my store&lt;/a&gt;.  I sell software and services.  Naturally the store runs Zen Cart!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ since 2006.&lt;/p&gt;</description>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scottcwilson.github.io/posts/blog/</guid>
-      <description>&lt;p&gt;This is my blog. The content is mostly related to Zen Cart, but sometimes I cover a few other topics so it&amp;rsquo;s less of a snooze-fest.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is &lt;a href=&#34;https://thatsoftwareguy.com/blog&#34;&gt;my blog&lt;/a&gt;. The content is mostly related to Zen Cart, but sometimes I cover a few other topics so it&amp;rsquo;s less of a snooze-fest.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,8 +48,7 @@ since 2006.&lt;/p&gt;</description>
       <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://scottcwilson.github.io/posts/ort/</guid>
-      <description>&lt;p&gt;This is my book group website.  We have been reading together for
-more than ten years.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is &lt;a href=&#34;http://tampabaybookgroup.org&#34;&gt;my book group website&lt;/a&gt;.  We have been reading together for more than ten years.&lt;/p&gt;</description>
     </item>
     
   </channel>
